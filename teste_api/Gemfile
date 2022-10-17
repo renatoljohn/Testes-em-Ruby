@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+gem "rspec-expectations"
+gem "json_matchers"
+gem "cucumber"
+gem "json-schema"
+gem "httparty"
