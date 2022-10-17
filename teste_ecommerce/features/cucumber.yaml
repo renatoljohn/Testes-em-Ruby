@@ -1,0 +1,8 @@
+default: -p chrome
+
+chrome: BROWSER=selenium_chrome
+chrome_headless: BROWSER=selenium_chrome_headless
+firefox: BROWSER=selenium
+firefox_headless: BROWSER=selenium_headless
+debug: DEBUG=true
+step_debug: STEPS_DEBUG=true
