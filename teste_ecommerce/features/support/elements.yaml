@@ -1,0 +1,9 @@
+account_button: button[id='account-button']
+signup_dropdown: a[href='/signup']
+
+signup_email_field: input[id='spree_user_email']
+signup_pass_field: input[id='spree_user_password']
+signup_pass_confirm_field: input[id='spree_user_password_confirmation']
+
+submit_button: input[value='Sign Up']
+account_dropdown: a[href='/account']
